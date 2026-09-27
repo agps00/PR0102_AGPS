@@ -2,7 +2,7 @@
 
 ## 1. Actualizar los repositorios
 
-Primero actualizamos la información de los repositorios de Ubuntu:
+Actualizar los repositorios de Ubuntu:
 
 ```bash
 sudo apt update
@@ -49,7 +49,7 @@ Este script configura el repositorio necesario para poder instalar Webmin median
 ```bash
 sudo sh webmin-setup-repo.sh
 ```
-![Actualización de repositorios](images/05_configuracion_repositorio.png)
+![Actualización de repositorios](images/05_configuración_repositorio.png)
 
 ---
 
@@ -63,7 +63,7 @@ sudo apt update
 ```bash
 sudo apt install -y webmin
 ```
-![Actualización de repositorios](images/06_instalando_Webmin.png)
+![Actualización de repositorios](images/06_instalando_Webmin.jpeg)
 
 ---
 
@@ -109,7 +109,7 @@ Para ello debemos copiar:
 https://192.168.56.102:10000
 ```
 
-![Actualización de repositorios](images/09_acceso_webmin.png)
+![Actualización de repositorios](images/09_acceso_Webmin.png)
 
 ---
 
