@@ -1,1 +1,2 @@
-# PR0102_AGPS
+# Práctica 0102 — Despliegue de Aplicaciones Web
+
